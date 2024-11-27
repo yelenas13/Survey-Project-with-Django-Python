@@ -8,3 +8,14 @@
 <br> #copy paste or press control+enter on link "http://127.0.0.1:8000/"   </br>
 
 <br> **WOOH! THE Application STARTS TO WORK**  </br>
+
+
+##Tools Used and Project Design
+Tools Used
+
+    Development Environment:Visual Studio Code, jupiter notebook 
+    Version Control: Git
+    Programming Languages: Python, HTML, JavaScript
+    Libraries/Frameworks: Django
+    Database: SQLite PostgreSQL
+    
